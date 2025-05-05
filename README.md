@@ -64,4 +64,8 @@ Feel free to adapt it — just give credit if it helps you. 🙌
 
 ---
 
+Copyright (c) 2025 Sunita Vishwakarma & Shivansh Gupta Licensed under the MIT License
+
+---
+
 *Official ID - SVSG-SVSGID-R01-PUB
